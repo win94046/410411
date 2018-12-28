@@ -23,7 +23,7 @@
  
  ### 列出頻繁項目集  
  
- [連結](https://github.com/win94046/410411/blob/master/Untitled17.ipynb)   
+ [連結](https://github.com/win94046/410411/blob/master/Untitled18.ipynb)   
  
  
  ### 討論或評論  
