@@ -30,3 +30,10 @@
  
  可以藉由上面的程式 得知每種商品的銷售量 從上面我們知道銷售量最好的是咖啡
  
+####2.
+
+Assume we have known the items in the basket, devise a method to predict whether the customer will also buy the item “bread”.  (You can think bread is the class label we want to predict. And we have two classes, “buy bread” and “not buy bread”)
+1. Explain the idea and method you propose (in detail)
+2. Write an example to illustrate the method
+3. discussions or comments
+
